@@ -15,7 +15,7 @@
 
     restaurantInfo("Kountry Style Kitchen", "5c155421-7594-4c0d-8d35-a1f8dd2cbf5e", "5f0295db-d25c-4f13-aeb5-9b5388f07fa3", "#breakfast", "kountry-kitchen.jpg", "Brunch eatery with full coffee menu. Known for their plate-sized mac nut pancakes.", "8:00AM-12:00PM");
 
-    restaurantInfo("Olympic Cafe Breakfast", "67a3bb32-a34f-43d2-830c-87917c4091b6", "6339bc32-b414-4f81-9b25-9f2cddda9c71", "#breakfast", "Olympic-cafe-bfast.jpg", "Local restaurant with diverse menu, from diner classics to Hawaiian fare.", "8:00AM-11:30AM");
+    restaurantInfo("Olympic Cafe Breakfast", "67a3bb32-a34f-43d2-830c-87917c4091b6", "6339bc32-b414-4f81-9b25-9f2cddda9c71", "#breakfast", "olympic-cafe-bfast.jpg", "Local restaurant with diverse menu, from diner classics to Hawaiian fare.", "8:00AM-11:30AM");
 
     restaurantInfo("Kenji Burger", "dfa29fb5-668a-4de4-a8e6-01f392e7a333", "221449fd-d038-42fd-b8b9-092118993d39", "#burgers", "kenjiburger.jpg", "Kauai grass fed beef, sushi burritos and poke bowls. Japanese/Hawaiian ingredients.", "11:30AM-7:00PM", "closed Tuesday");
 
