@@ -81,7 +81,7 @@ header > a > img {
   display: flex;
   flex-direction: column;
   margin-right: 40px;
-  width: 75vw;
+  width: 80vw;
   flex-shrink: 0;
 }
 
