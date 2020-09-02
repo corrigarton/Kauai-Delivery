@@ -1,0 +1,131 @@
+body, html, main {
+  width: 100vw;
+  padding: 0px;
+  margin: 0;
+}
+
+#first-page {
+  background-image: url("mobile-background.jpg");
+  background-position: center bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  max-height: 100vh;
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  height: 20vh;
+  width: 100vw;
+  padding-top: 40px;
+  max-height: 200px;
+}
+
+/*logo in header*/
+header > a > img {
+  height: 100px;
+  margin-left: 80px;
+  position: relative;
+  z-index: 10;
+}
+
+nav {
+  display: none;
+}
+
+/*navigation button for mobile*/
+.navButton {
+  display: flex;
+  flex-direction: column;
+  width: 120px;
+  margin-right: 75px;
+  margin-top: 20px;
+  display: flex;
+  margin-left: auto;
+  position: relative;
+  z-index: 10;
+}
+
+/*lines in nav button*/
+.navButton > div {
+  height: 5px;
+  width: 100%;
+  background-color: white;
+  margin-top: 25px;
+}
+
+/*mobile menu*/
+#navBar {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 0px;
+  padding-top: 40vh;
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  background-color: black;
+  transition: 0.5s;
+  z-index: 5;
+  text-align: center;
+}
+
+/* no bullets on mobile nav links*/
+#navBar > li {
+  list-style-type: none;
+}
+
+/* normal navigation links*/
+#navBar > li > a {
+  margin-left: auto;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  font-size: 100px;
+  color: white;
+  text-decoration: none;
+}
+
+/*div for order now button on mobile menu*/
+#orderNav {
+  position: fixed;
+  bottom: 0px;
+  width: 101vw;
+  padding: 100px 0px;
+  font-size: 65px;
+  background-color: white;
+  color: black;
+}
+
+/*title & order now button in middle of page*/
+.heading {
+  display: flex;
+  flex-direction: column;
+  height: 80%;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 250px;
+}
+
+/* title middle of page*/
+.heading > h1 {
+  font-size: 115px;
+  margin: 0px;
+  padding: 0px;
+}
+
+/* order now button, middle of page*/
+#orderButton {
+  background-color: black;
+  color: white;
+  Width: 500px;
+  font-size: 50px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+/*link around order now button*/
+#orderLink {
+  text-decoration: none;
+  margin-top: 125px;
+}

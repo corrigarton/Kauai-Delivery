@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Kauai Delivery </title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" media="screen and (max-device-width: 576px)" href="stylesmobile.css" />
+    <!--h1 heading font-->
+    <link href="https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap" rel="stylesheet">
+    <!--NAV FONT-->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap" rel="stylesheet">
+    <!--category of menus font-->
+    <link href="https://fonts.googleapis.com/css2?family=Bungee+Shade&display=swap" rel="stylesheet">
+    <!--favicon-->
+    <link rel=icon href=favicon.png sizes="16x16" type="image/png">
+    <!-- heading font pt2-->
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@700;900&display=swap" rel="stylesheet">
+    <script src="order.js"></script>
+  </head>
+  <body>
+    <section id="first-page">
+      <header>
+        <a href="index.html"> <img src="simple logo.png" alt="Kauai Delivery Logo"> </a>
+        <nav>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="https://kauaidelivery.com/about">About</a></li>
+          <a href="order.html">
+            <div id="orderNav">Order Online</div>
+          </a>
+        </nav>
+        <div class="navButton">
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
+        <div id="navBar">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="https://kauaidelivery.com/about">About</a></li>
+          <a href="order.html">
+            <div id="orderNav">Order Online</div>
+          </a>
+        </div>
+      </header>
+      <section class="heading">
+        <h1>Delivering for <br> 15 Kapaa Restaurants.</h1>
+        <a href="order.html" id="orderLink">
+          <div id="orderButton">
+            <h1>Order Now</h1>
+          </div>
+        </a>
+      </section>
+   </section>
+    <main>
+    </main>
+  </body>
+<html>
