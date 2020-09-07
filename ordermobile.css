@@ -49,7 +49,7 @@ header {
 
 header > a > img {
   height: 100px;
-  margin-left: 80px;
+  margin-left: 5%;
   margin-top: 20px;
 }
 
@@ -63,14 +63,13 @@ header > a > img {
   margin-left: 3.5%;
   margin-right: 3.5%;
   padding-bottom: 20px;
-  height: 60vw;
 }
 
 /*main title*/
 .category-title {
-  font-family: 'Bungee Shade', cursive;
+  font-family: 'Raleway', sans-serif;
   font-size: 75px;
-  margin-left: 75px;
+  margin-left: 3.5%;
   margin-top: 35px;
   margin-bottom: 40px;
 }
@@ -82,97 +81,57 @@ header > a > img {
   margin-right: 40px;
   width: 75vw;
   flex-shrink: 0;
-}
-
-
-.restaurant > img {
-  width: 100%;
-  object-fit: contain;
-  padding: 0;
-  margin: 0;
-  border-radius: 10px;
-}
-
-/*holding name, hrs and gf button*/
-.stuff {
-  display: flex;
-  height: 50px;
-  flex-direction: row;
-  margin-top: 5px;
-  padding: 0px;
-  color: black;
-  padding-bottom: 35px;
+  background-color: rgba(252, 240, 132, .1);
+  padding: 20px 20px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: rgba(0, 0, 0, 0.05)
 }
 
 /* restaurant name, hrs & description */
 .info {
-  font-family: 'Montserrat', sans-serif;
-  padding: 0px;
-  margin: 0px;
-}
-
-
-/*restaurant name*/
-.restaurant > h2 {
   font-size: 75px;
-  margin-left: 20px;
-  margin-bottom: 25px;
-  color: white;
-  font-family: 'Kumbh Sans', sans-serif;
-  text-shadow: 0 0 25px #000000;
-  text-align: left;
-  margin-top: -200px;
+  color: black;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 200;
 }
 
 /*restaurant hours*/
-.info-box > h3 {
-  font-size: 30px;
-  font-family: 'Kumbh Sans', sans-serif;
-  color: white;
-  text-shadow: 0 0 25px #000000;
-  font-size: 45px;
-  margin-left: 25px;
+#hours {
+  font-size: 35px;
+  margin-left: 5px;
 }
+
 
 /*Italicize weird hours, make small & light*/
 .xtra {
-  font-size: 25px;
-  color: rgba(0,0,0, .5)
+  font-size: 30px;
+  color: rgba(0,0,0, .5);
+  margin-left: 5px;
 }
 
 /* restaurant description*/
-.restaurant > p {
+.restaurant  p {
   border-top: solid;
   border-width: 1px;
-  margin-top: 10px;
+  margin-top: 275px;
   padding-top: 15px;
   font-size: 25px;
-  color: rgba(0, 0, 0, .7);
-  border-color: rgba(0, 0, 0, .3);
 }
 
-/*glf button*/
-.stl {
-  min-height: 65px !important;
-  width: 150px;
-  font-size: 25px !important;
-  margin-top: -5px !important;
-  padding-top: 15px !important;
-  padding-bottom: 15px !important;
-  border-radius: 5px;
+.info-box {
+  margin-top: 25px;
+  margin-left: 5px;
+}
+
+.restaurant h2 {
+  margin-bottom: 10px;
+  margin-top: 5px;
+  position: relative;
+  font-weight: 100;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 #restaurantButton {
-  padding: 20px 0px;
-  width: 100vw;
-  margin: 0;
-  margin-top: 200px;
-  font-size: 30px;
-  font-family: 'Montserrat', sans-serif;
-  text-align: center;
-  line-height: 50px;
-}
 
-#restaurantButtonLink {
-  text-decoration: none;
 }
