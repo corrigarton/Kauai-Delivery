@@ -48,11 +48,6 @@
     let container = document.createElement("span");
     container.className = "restaurant";
 
-
-    /*box w hours and glf button */
-    let stuff = document.createElement("div");
-    stuff.className = "stuff";
-
     /*glf button*/
     let glfButton = document.createElement("span");
     glfButton.setAttribute("class", "glf-button stl");
@@ -60,33 +55,34 @@
     glfButton.setAttribute("data-glf-ruid", ruid);
 
     if (window.screen.width > 500) {
-      glfButton.setAttribute("style", "width: 25vw; height: 18.75vw; background-size: cover; text-align: left;");
+      glfButton.setAttribute("style", "align-self: center; display: flex; flex-direction: column-reverse; border-radius: 0px; width: 25vw; height: 18.75vw; background-size: cover; text-align: left;");
       glfButton.style["background-image"] = photo;
     } else {
-      glfButton.setAttribute("style", "width: 75vw; height: 56.25vw; background-size: cover; text-align: left;");
+      glfButton.setAttribute("style", "display: flex; flex-direction: column-reverse; border-radius: 0px; width: 75vw; height: 56.25vw; background-size: cover; text-align: left;");
       glfButton.style["background-image"] = photo;
     }
-    stuff.appendChild(glfButton);
+    container.appendChild(glfButton);
 
     let scriptE = document.createElement("script");
     scriptE.setAttribute("src", "https://www.fbgcdn.com/embedder/js/ewm2.js");
     scriptE.setAttribute("defer", "defer");
     scriptE.setAttribute("async", "async")
-    stuff.appendChild(scriptE);
-
-    /*restaurant name*/
-    let nameE = document.createElement("h2");
-    nameE.textContent = name;
-    nameE.className = "info";
-    glfButton.appendChild(nameE);
+    container.appendChild(scriptE);
 
     /*box w hours making them vertical bc in a horizontal flex*/
     let infoBox = document.createElement("div");
     infoBox.className = "info-box";
 
+    /*restaurant name*/
+    let nameE = document.createElement("h2");
+    nameE.textContent = name;
+    nameE.className = "info";
+    infoBox.appendChild(nameE);
+
     let hoursE = document.createElement("h3");
     hoursE.textContent = hours;
     hoursE.className = "info";
+    hoursE.id = "hours";
     infoBox.appendChild(hoursE);
 
     let hoursXtraE = document.createElement("h3");
@@ -94,22 +90,20 @@
     hoursXtraE.className = "info xtra";
     infoBox.appendChild(hoursXtraE);
 
-    /*add hours to stuff div*/
-    glfButton.appendChild(infoBox);
+    /*add hours to glf button*/
+    container.appendChild(infoBox);
 
-    /*add stuff(div) to container(span)*/
-    container.appendChild(stuff);
 
-    /*box with description*/
+
+    /*box with description
     let descriptionE = document.createElement("p");
     descriptionE.className = "info";
     descriptionE.textContent = description;
-    container.appendChild(descriptionE);
+    glfButton.appendChild(descriptionE);*/
 
     /*add big container to end of body*/
     qs(location).appendChild(container);
   }
-
 
   /*useful functions*/
   function id(idName) {
