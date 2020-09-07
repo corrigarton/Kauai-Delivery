@@ -66,6 +66,14 @@ nav > a {
   margin-top: -15px;
 }
 
+#title {
+  font-family: 'Kumbh Sans', sans-serif;
+  font-size: 60px;
+  text-align: center;
+  margin-top: 150px;
+  margin-bottom: 150px;
+}
+
 /* scrolly restaurant boxes*/
 .category {
   display: flex;
@@ -99,24 +107,18 @@ nav > a {
   min-width: 300px;
 }
 
-.restaurant > img {
-  width: 100%;
-  object-fit: contain;
-  padding: 0;
-  margin: 0;
-}
-
-/*holding name, hrs and gf button*/
-.stuff {
-  display: flex;
-  flex-direction: row;
+.info-box {
+  margin-top: 10px;
+  margin-left: 5px;
 }
 
 /* restaurant name, hrs & description */
 .info {
-  color: white;
+  font-family: 'Montserrat', sans-serif;
+  color: black;
   font-family: 'Kumbh Sans', sans-serif;
-  padding-left: 20px;
+  padding: 0;
+  margin: 0;
 }
 
 /*restaurant name*/
@@ -126,14 +128,18 @@ nav > a {
 }
 
 /*restaurant hours*/
-.info-box > h3 {
-  font-size: 12px;
+#hours {
+  margin-top: 5px;
+  font-size: 13px;
+  font-weight: 400;
 }
 
 /*Italicize weird hours, make small & light*/
 .xtra {
-  font-size: 10px;
-  color: rgba(0,0,0, .5)
+  color: rgba(0,0,0, .6);
+  font-size: 13px;
+  font-weight: 400;
+  margin-top: 1px;
 }
 
 /* restaurant description*/
@@ -157,7 +163,7 @@ nav > a {
   width: 200px;
   height: min-content;
   margin: auto;
-  margin-bottom: 50px;
+  margin-bottom: 150px;
 }
 
 #restaurantButton:hover {
