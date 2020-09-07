@@ -43,7 +43,6 @@ header {
   flex-direction: row;
   height: 200px;
   width: 100vw;
-  margin-bottom: 150px;
   padding-top: 40px;
 }
 
@@ -69,9 +68,14 @@ header > a > img {
 .category-title {
   font-family: 'Raleway', sans-serif;
   font-size: 75px;
-  margin-left: 3.5%;
+  margin: 0;
+  padding-left: 6%;
   margin-top: 35px;
   margin-bottom: 40px;
+  background-color: rgb(241, 206, 50);
+  color: white;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 /*each restaurants yum box*/
@@ -81,16 +85,11 @@ header > a > img {
   margin-right: 40px;
   width: 75vw;
   flex-shrink: 0;
-  background-color: rgba(252, 240, 132, .1);
-  padding: 20px 20px;
-  border-style: solid;
-  border-width: 2px;
-  border-color: rgba(0, 0, 0, 0.05)
+  margin-top: 30px;
 }
 
 /* restaurant name, hrs & description */
 .info {
-  font-size: 75px;
   color: black;
   font-family: 'Josefin Sans', sans-serif;
   font-weight: 200;
@@ -120,16 +119,15 @@ header > a > img {
 }
 
 .info-box {
-  margin-top: 25px;
-  margin-left: 5px;
+  margin-top: 30px;
+  margin-left: 10px;
 }
 
 .restaurant h2 {
   margin-bottom: 10px;
   margin-top: 5px;
   position: relative;
-  font-weight: 100;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 80px;
 }
 
 #restaurantButton {
