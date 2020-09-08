@@ -47,6 +47,7 @@ nav {
 /* no bullets on mobile nav links*/
 #navBar > li {
   list-style-type: none;
+  margin-bottom: 50px;
 }
 
 /* normal navigation links*/
@@ -57,7 +58,6 @@ nav {
   font-size: 100px;
   color: white;
   text-decoration: none;
-  margin-top: 10px;
 }
 
 /*div for order now button on mobile menu*/
