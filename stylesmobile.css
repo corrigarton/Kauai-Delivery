@@ -25,7 +25,7 @@ header {
 /*logo in header*/
 header > a > img {
   height: 100px;
-  margin-left: 3.5vw;
+  margin-left: 50px;
   position: relative;
   z-index: 10;
 }
@@ -84,17 +84,24 @@ nav {
   font-size: 100px;
   color: white;
   text-decoration: none;
+  margin-top: 10px;
 }
 
 /*div for order now button on mobile menu*/
 #orderNav {
-  position: fixed;
-  bottom: 0px;
-  width: 101vw;
-  padding: 100px 0px;
-  font-size: 65px;
   background-color: white;
   color: black;
+  Width: 400px;
+  font-size: 60px;
+  font-family: 'Montserrat', sans-serif;
+  margin: auto;
+  text-decoration: none;
+  padding: 60px 100px;
+}
+
+#navButtonLink {
+  text-decoration: none;
+  margin-top: 250px;
 }
 
 /*title & order now button in middle of page*/
@@ -110,9 +117,14 @@ nav {
 
 /* title middle of page*/
 .heading > h1 {
-  font-size: 115px;
+  font-size: 75px;
   margin: 0px;
   padding: 0px;
+  font-family: 'Syne', sans-serif;
+}
+
+.heading > h1 > br {
+  display: none;
 }
 
 /* order now button, middle of page*/
