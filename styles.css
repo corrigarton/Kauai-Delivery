@@ -21,16 +21,24 @@ header {
   margin-bottom: 50px;
 }
 
+/*button for mobile menu*/
+#navButton {
+  display: none;
+}
+
+ /*mobile navigation*/
+#navBar {
+  display: none
+}
+
+/*Logo in header*/
 header > a > img {
   height: 45px;
   margin-left: 50px;
   margin-top: 20px;
 }
 
-#navBar {
-  display: none
-}
-
+/*navigation bar top of page*/
 nav {
   list-style: none;
   display: flex;
@@ -39,20 +47,16 @@ nav {
   margin-right: 3.5%;
 }
 
-/*button for mobile menu*/
-#navButton {
-  display: none;
-}
-
 /*navigation links*/
 nav  a {
   margin-left: 30px;
   font-family: 'Montserrat', sans-serif;
-  font-size: 20px;
+  font-size: 17px;
   color: black;
   text-decoration: none;
 }
 
+/*navigation links on hover*/
 a:hover {
   color: rgba(0, 0, 0, 0.8);
 }
@@ -60,18 +64,18 @@ a:hover {
 /*order online button in header*/
 #orderNav {
   background-color: black;
-  color: white;
-  height: 25px;
-  width: 100px;
-  padding: 15px 20px;
   font-size: 15px;
+  color: white;
+  padding: 15px 20px;
   font-family: 'Montserrat', sans-serif;
 }
 
+/*order now button in navigation bar*/
 #orderNav:hover {
   background-color: rgba(0,0,0,.7);
 }
 
+/*normal links (not order button)*/
 nav > a {
   display: flex;
   height: min-content;
@@ -91,7 +95,7 @@ nav > a {
 
 /*main title middle of page*/
 .heading > h1 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 70px;
   font-weight: 700;
   margin: 0px;
