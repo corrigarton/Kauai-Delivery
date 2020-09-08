@@ -28,6 +28,7 @@ header > a > img {
   margin-left: 50px;
   position: relative;
   z-index: 10;
+  text-shadow: 0 0 10px rgb(0,0,0);
 }
 
 nav {
@@ -74,6 +75,7 @@ nav {
 /* no bullets on mobile nav links*/
 #navBar > li {
   list-style-type: none;
+  margin-bottom: 50px;
 }
 
 /* normal navigation links*/
@@ -84,7 +86,6 @@ nav {
   font-size: 100px;
   color: white;
   text-decoration: none;
-  margin-top: 10px;
 }
 
 /*div for order now button on mobile menu*/
@@ -117,7 +118,7 @@ nav {
 
 /* title middle of page*/
 .heading > h1 {
-  font-size: px;
+  font-size: 75px;
   margin: 0px;
   text-shadow: none;
   margin-bottom: 100px;
