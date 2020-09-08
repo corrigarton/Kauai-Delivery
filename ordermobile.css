@@ -27,16 +27,56 @@ nav {
   margin-top: 25px;
 }
 
+/*mobile menu*/
 #navBar {
+  display: flex;
+  flex-direction: column;
   height: 100vh;
   width: 0px;
-  margin-top: -40px;
+  padding-top: 40vh;
   position: fixed;
+  top: 0px;
   right: 0px;
-  background-color: pink;
+  background-color: black;
   transition: 0.5s;
   z-index: 5;
+  text-align: center;
+
 }
+
+/* no bullets on mobile nav links*/
+#navBar > li {
+  list-style-type: none;
+}
+
+/* normal navigation links*/
+#navBar > li > a {
+  margin-left: auto;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  font-size: 100px;
+  color: white;
+  text-decoration: none;
+  margin-top: 10px;
+}
+
+/*div for order now button on mobile menu*/
+#orderNav {
+  background-color: white;
+  color: black;
+  Width: 400px;
+  font-size: 60px;
+  font-family: 'Montserrat', sans-serif;
+  margin: auto;
+  text-decoration: none;
+  padding: 60px 100px;
+}
+
+#navButtonLink {
+  text-decoration: none;
+  margin-top: 250px;
+}
+
 
 header {
   display: flex;
@@ -131,5 +171,14 @@ header > a > img {
 }
 
 #restaurantButton {
-
+  background-color: black;
+  color: white;
+  width: 500px;
+  font-size: 30px;
+  font-family: 'Montserrat', sans-serif;
+  margin: auto;
+  text-decoration: none;
+  padding: 60px 100px;
+  margin-top: 200px;
+  margin-bottom: 200px;
 }
