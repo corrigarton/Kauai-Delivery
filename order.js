@@ -7,7 +7,7 @@
 
     qs(".navButton").addEventListener('click', navButton);
 
-    restaurantInfo("Kauai Juice", "677629eb-4862-40e4-bc66-f6b45e30f7f2", "e858a914-5e60-473e-8153-bee92b78f6b6", "#breakfast", "url('kauai-juice.jpg')", "Juice bar with fresh juice and a variety of light fare made with local, organic produce.", "8:00AM-4:00PM");
+    restaurantInfo("Kauai Juice", "74221aec-2006-4706-9176-3988bfde0b10", "d15798ee-403a-437d-82d8-309a757f423e", "#breakfast", "url('kauai-juice.jpg')", "Juice bar with fresh juice and a variety of light fare made with local, organic produce.", "8:00AM-4:00PM");
 
     restaurantInfo("Java Kai", "beabdc8e-9063-44ef-b8a1-4628ed56efc7", "ed0b8ba0-f6e3-4ef8-a233-5209114b6543", "#breakfast", "url('java-kai.jpg')", "Coffeehouse serving espresso, smoothies & bowls, breakfast, lunch, and dessert.", "8:00AM-1:00PM");
 
