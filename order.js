@@ -21,19 +21,19 @@
 
     restaurantInfo("Avalon Gastropub", "1bda4f12-8324-4e45-86c4-8797217b63b9", "52dc9601-9051-495a-9254-90d5fa7410cb", "#burgers", "url('avalonburger.jpg')", "Comfort food with a twist. We take pride in our high quality, local ingredients.", "3:30PM-8:00PM", "closed Sun & Mon");
 
-    restaurantInfo("Olympic Cafe", "21b134b9-d774-4fc3-8268-95a12d2ae217", "c89ea0f3-adb7-4297-b847-38e31c1e7f55", "#burgers", "url('olympicburger.jpg')", "Local restaurant with diverse menu, from diner classics to Hawaiian fare.", "11:00AM-8:00PM");
+    //restaurantInfo("Olympic Cafe", "21b134b9-d774-4fc3-8268-95a12d2ae217", "c89ea0f3-adb7-4297-b847-38e31c1e7f55", "#burgers", "url('olympicburger.jpg')", "Local restaurant with diverse menu, from diner classics to Hawaiian fare.", "11:00AM-8:00PM");
 
-    restaurantInfo("Anatta's Thai", "e23fba36-c348-4ca4-959c-f1b3d9f0ddaa", "b3824c31-12ed-4638-8bb7-5fda0f60ee7e", "#asianFood", "url('anattasyums.jpg')", "Quality, cooked to order, authentic Thai food. Vegan options, diverse menu, family owned.", "10:00AM-6:00PM", "closed Sun");
+ //   restaurantInfo("Anatta's Thai", "e23fba36-c348-4ca4-959c-f1b3d9f0ddaa", "b3824c31-12ed-4638-8bb7-5fda0f60ee7e", "#asianFood", "url('anattasyums.jpg')", "Quality, cooked to order, authentic Thai food. Vegan options, diverse menu, family owned.", "10:00AM-6:00PM", "closed Sun");
 
-    restaurantInfo("Coconut Thai & Chinese", "7a03caeb-65ce-4d62-b9e4-a4e78000fd80", "3851fe2f-7f37-44c7-8b3f-1b95a02b6d39", "#asianFood", "url('coconutthai.jpg')", "Authentic Thai and Chinese food made with fresh, local seafood.", "11:00AM-6:30PM");
+   // restaurantInfo("Coconut Thai & Chinese", "7a03caeb-65ce-4d62-b9e4-a4e78000fd80", "3851fe2f-7f37-44c7-8b3f-1b95a02b6d39", "#asianFood", "url('coconutthai.jpg')", "Authentic Thai and Chinese food made with fresh, local seafood.", "11:00AM-6:30PM");
 
-    restaurantInfo("First Light", "7a03caeb-65ce-4d62-b9e4-a4e78000fd80", "3851fe2f-7f37-44c7-8b3f-1b95a02b6d39", "#breakfast", "url('coconutthai.jpg')", 'Serving tons of light breakfast options as well as a variety of custom coffee drinks.", "8:00AM-10AM");
+    //restaurantInfo("First Light", "7a03caeb-65ce-4d62-b9e4-a4e78000fd80", "3851fe2f-7f37-44c7-8b3f-1b95a02b6d39", "#breakfast", "url('coconutthai.jpg')", 'Serving tons of light breakfast options as well as a variety of custom coffee drinks.", "8:00AM-10AM");
     
     //restaurantInfo("The Crooked Surf", "7a03caeb-65ce-4d62-b9e4-a4e78000fd80", "3851fe2f-7f37-44c7-8b3f-1b95a02b6d39", "#americanFood", "url('coconutthai.jpg')", "Restaurant featuring a menu of light fare including burgers, sandwiches & salads.", "11:00AM-8:00PM");
 
-    restaurantInfo("Kauai Boil", "7a03caeb-65ce-4d62-b9e4-a4e78000fd80", "3851fe2f-7f37-44c7-8b3f-1b95a02b6d39", "#asianFood", "url('coconutthai.jpg')", "Locally owned food truck serving Cajun style seafood boils.", "3PM-7:30PM", "3PM-6:30PM Sun");
+   // restaurantInfo("Kauai Boil", "7a03caeb-65ce-4d62-b9e4-a4e78000fd80", "3851fe2f-7f37-44c7-8b3f-1b95a02b6d39", "#asianFood", "url('coconutthai.jpg')", "Locally owned food truck serving Cajun style seafood boils.", "3PM-7:30PM", "3PM-6:30PM Sun");
 
-    restaurantInfo("The Pineapple Room", "7a03caeb-65ce-4d62-b9e4-a4e78000fd80", "3851fe2f-7f37-44c7-8b3f-1b95a02b6d39", "#asianFood", "url('coconutthai.jpg')", "Serving authentic Cuban cuisine 5 nights a week.", "5:00PM-7:30PM", "closed Mon & Tues");
+    //restaurantInfo("The Pineapple Room", "7a03caeb-65ce-4d62-b9e4-a4e78000fd80", "3851fe2f-7f37-44c7-8b3f-1b95a02b6d39", "#asianFood", "url('coconutthai.jpg')", "Serving authentic Cuban cuisine 5 nights a week.", "5:00PM-7:30PM", "closed Mon & Tues");
   }
   /*nav button*/
   function navButton(){
