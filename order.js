@@ -9,7 +9,7 @@
 
     restaurantInfo("Kauai Juice", "74221aec-2006-4706-9176-3988bfde0b10", "d15798ee-403a-437d-82d8-309a757f423e", "#breakfast", "url('kauai-juice.jpg')", "Juice bar with fresh juice and a variety of light fare made with local, organic produce.", "8:00AM-4:00PM");
 
-    restaurantInfo("Java Kai", "beabdc8e-9063-44ef-b8a1-4628ed56efc7", "ed0b8ba0-f6e3-4ef8-a233-5209114b6543", "#breakfast", "url('java-kai.jpg')", "Coffeehouse serving espresso, smoothies & bowls, breakfast, lunch, and dessert.", "8:00AM-1:00PM");
+    restaurantInfo("Java Kai", "8597e28b-2081-4b3d-a54d-006828158572", "654f575b-ec86-4580-b0e5-8fbc0244b5eb", "#breakfast", "url('java-kai.jpg')", "Coffeehouse serving espresso, smoothies & bowls, breakfast, lunch, and dessert.", "8:00AM-1:00PM");
 
     restaurantInfo("Eat Healthy, Kauai", "463631f6-0f3d-4883-bbc7-0fa15031a283", "fdc2a906-5c43-4572-84a7-31a316a4d796", "#breakfast", "url('eathealthy.jpg')", "Cafe featuring vegan & gluten-free offerings. Serving breakfast, lunch & dinner.", "9AM-2:30PM & 5PM-8PM", "Closed Sun 5-8 & all-day Mon");
 
