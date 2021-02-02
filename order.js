@@ -11,9 +11,9 @@
 
     restaurantInfo("Java Kai", "8597e28b-2081-4b3d-a54d-006828158572", "654f575b-ec86-4580-b0e5-8fbc0244b5eb", "#breakfast", "url('java-kai.jpg')", "Coffeehouse serving espresso, smoothies & bowls, breakfast, lunch, and dessert.", "8:00AM-1:00PM");
 
-    restaurantInfo("Eat Healthy, Kauai", "463631f6-0f3d-4883-bbc7-0fa15031a283", "fdc2a906-5c43-4572-84a7-31a316a4d796", "#breakfast", "url('eathealthy.jpg')", "Cafe featuring vegan & gluten-free offerings. Serving breakfast, lunch & dinner.", "9AM-2:30PM & 5PM-8PM", "Closed Sun 5-8 & all-day Mon");
+    restaurantInfo("Eat Healthy, Kauai", "dfd08e9a-1673-4847-b895-becb22cfbba7", "fdc2a906-5c43-4572-84a7-31a316a4d796", "#breakfast", "url('eathealthy.jpg')", "Cafe featuring vegan & gluten-free offerings. Serving breakfast, lunch & dinner.", "9AM-2:30PM & 5PM-8PM", "Closed Sun 5-8 & all-day Mon");
 
-    restaurantInfo("Kountry Kitchen", "5c155421-7594-4c0d-8d35-a1f8dd2cbf5e", "5f0295db-d25c-4f13-aeb5-9b5388f07fa3", "#breakfast", "url('kountry-kitchen.jpg')", "Brunch eatery with full coffee menu. Known for their plate-sized mac nut pancakes.", "8:00AM-12:00PM");
+    restaurantInfo("Kountry Kitchen", "5c155421-7594-4c0d-8d35-a1f8dd2cbf5e", "a9ef2d91-3511-4f2b-8bf7-da4eaa841633", "#breakfast", "url('kountry-kitchen.jpg')", "Brunch eatery with full coffee menu. Known for their plate-sized mac nut pancakes.", "8:00AM-12:00PM");
 
     restaurantInfo("Olympic Cafe", "67a3bb32-a34f-43d2-830c-87917c4091b6", "6339bc32-b414-4f81-9b25-9f2cddda9c71", "#breakfast", "url('olympic-cafe-bfast.jpg')", "Local restaurant with diverse menu, from diner classics to Hawaiian fare.", "8:00AM-11:30AM");
 
