@@ -27,20 +27,13 @@
 
     restaurantInfo("Coconut Thai & Chinese", "7a03caeb-65ce-4d62-b9e4-a4e78000fd80", "3851fe2f-7f37-44c7-8b3f-1b95a02b6d39", "#asianFood", "url('coconutthai.jpg')", "Authentic Thai and Chinese food made with fresh, local seafood.", "11:00AM-6:30PM");
 
-    restaurantInfo("Scorpacciata", "54acf9e2-b0be-48a9-930f-b05c5aa39f9c", "1d0e5cc4-c1bc-4859-a0b5-cc7627badec8", "#pizza", "url('scorpacciata.jpeg')", "Pizza truck with fresh, local ingredients, specializing in Neapolitan Style Pizza.", "11:00AM-7:30PM", "Sun 12:00PM-7:30PM");
-
-    restaurantInfo("Bobby V's Italian", "ba48f358-606a-4a8a-abdb-e6e3e8c77d98", "f814512e-42f8-45f4-946f-9f2699afec37", "#pizza", "url('bobbyv.jpg')", "Our sauces are all homemade and we use only 100% real mozzarella cheese.", "3:00PM-7:30PM", "closed sun");
+    restaurantInfo("First Light", "7a03caeb-65ce-4d62-b9e4-a4e78000fd80", "3851fe2f-7f37-44c7-8b3f-1b95a02b6d39", "#breakfast", "url('coconutthai.jpg')", 'Serving tons of light breakfast options as well as a variety of custom coffee drinks.", "8:00AM-10AM");
     
-    restaurantInfo("First Light", "7a03caeb-65ce-4d62-b9e4-a4e78000fd80", "3851fe2f-7f37-44c7-8b3f-1b95a02b6d39", "#breakfast", "url('coconutthai.jpg')", 'Serving tons of light breakfast options as well as a variety of custom coffee drinks.", "8:00AM-10aM");
+    restaurantInfo("The Crooked Surf", "7a03caeb-65ce-4d62-b9e4-a4e78000fd80", "3851fe2f-7f37-44c7-8b3f-1b95a02b6d39", "#americanFood", "url('coconutthai.jpg')", "Restaurant featuring a menu of light fare including burgers, sandwiches & salads.", "11:00AM-8:00PM");
 
-    restaurantInfo("The Crooked Surf", "7a03caeb-65ce-4d62-b9e4-a4e78000fd80", "3851fe2f-7f37-44c7-8b3f-1b95a02b6d39", "#americanFood", "url('coconutthai.jpg')", "Authentic Thai and Chinese food made with fresh, local seafood.", "11:00AM-6:30PM");
+    restaurantInfo("Kauai Boil", "7a03caeb-65ce-4d62-b9e4-a4e78000fd80", "3851fe2f-7f37-44c7-8b3f-1b95a02b6d39", "#asianFood", "url('coconutthai.jpg')", "Locally owned food truck serving Cajun style seafood boils.", “3PM-7:30PM (3-6:30 Sun)");
 
-    restaurantInfo("Coconut Thai & Chinese", "7a03caeb-65ce-4d62-b9e4-a4e78000fd80", "3851fe2f-7f37-44c7-8b3f-1b95a02b6d39", "#asianFood", "url('coconutthai.jpg')", "Authentic Thai and Chinese food made with fresh, local seafood.", "11:00AM-6:30PM");
-
-    restaurantInfo("Coconut Thai & Chinese", "7a03caeb-65ce-4d62-b9e4-a4e78000fd80", "3851fe2f-7f37-44c7-8b3f-1b95a02b6d39", "#asianFood", "url('coconutthai.jpg')", "Authentic Thai and Chinese food made with fresh, local seafood.", "11:00AM-6:30PM");
-
-    restaurantInfo("Coconut Thai & Chinese", "7a03caeb-65ce-4d62-b9e4-a4e78000fd80", "3851fe2f-7f37-44c7-8b3f-1b95a02b6d39", "#asianFood", "url('coconutthai.jpg')", "Authentic Thai and Chinese food made with fresh, local seafood.", "11:00AM-6:30PM");
-  }
+    restaurantInfo("The Pineapple Room", "7a03caeb-65ce-4d62-b9e4-a4e78000fd80", "3851fe2f-7f37-44c7-8b3f-1b95a02b6d39", "#asianFood", "url('coconutthai.jpg')", "Serving authentic Cuban cuisine 5 nights a week.", "5:00PM-7:30PM (closed Mon & Tues"); }
 
   /*nav button*/
   function navButton(){
