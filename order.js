@@ -23,7 +23,7 @@
 
     restaurantInfo("Olympic Cafe", "21b134b9-d774-4fc3-8268-95a12d2ae217", "c89ea0f3-adb7-4297-b847-38e31c1e7f55", "#burgers", "url('olympicburger.jpg')", "Local restaurant with diverse menu, from diner classics to Hawaiian fare.", "11:00AM-8:00PM");
 
-    restaurantInfo("Anatta's Thai", "9311a7ba-aacd-4b87-8579-dee61685145f", "f0b6f85d-144a-42b0-93d9-246a945404f4", "#asianFood", "url('anattasyums.jpg')", "Quality, cooked to order, authentic Thai food. Vegan options, diverse menu, family owned.", "10:00AM-6:00PM", "closed Sun");
+    restaurantInfo("Anatta's Thai", "e23fba36-c348-4ca4-959c-f1b3d9f0ddaa", "b3824c31-12ed-4638-8bb7-5fda0f60ee7e", "#asianFood", "url('anattasyums.jpg')", "Quality, cooked to order, authentic Thai food. Vegan options, diverse menu, family owned.", "10:00AM-6:00PM", "closed Sun");
 
     restaurantInfo("Coconut Thai & Chinese", "7a03caeb-65ce-4d62-b9e4-a4e78000fd80", "3851fe2f-7f37-44c7-8b3f-1b95a02b6d39", "#asianFood", "url('coconutthai.jpg')", "Authentic Thai and Chinese food made with fresh, local seafood.", "11:00AM-6:30PM");
 
