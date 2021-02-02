@@ -29,7 +29,7 @@
 
     restaurantInfo("First Light", "7a03caeb-65ce-4d62-b9e4-a4e78000fd80", "3851fe2f-7f37-44c7-8b3f-1b95a02b6d39", "#breakfast", "url('coconutthai.jpg')", 'Serving tons of light breakfast options as well as a variety of custom coffee drinks.", "8:00AM-10AM");
     
-    restaurantInfo("The Crooked Surf", "7a03caeb-65ce-4d62-b9e4-a4e78000fd80", "3851fe2f-7f37-44c7-8b3f-1b95a02b6d39", "#americanFood", "url('coconutthai.jpg')", "Restaurant featuring a menu of light fare including burgers, sandwiches & salads.", "11:00AM-8:00PM");
+    //restaurantInfo("The Crooked Surf", "7a03caeb-65ce-4d62-b9e4-a4e78000fd80", "3851fe2f-7f37-44c7-8b3f-1b95a02b6d39", "#americanFood", "url('coconutthai.jpg')", "Restaurant featuring a menu of light fare including burgers, sandwiches & salads.", "11:00AM-8:00PM");
 
     restaurantInfo("Kauai Boil", "7a03caeb-65ce-4d62-b9e4-a4e78000fd80", "3851fe2f-7f37-44c7-8b3f-1b95a02b6d39", "#asianFood", "url('coconutthai.jpg')", "Locally owned food truck serving Cajun style seafood boils.", "3PM-7:30PM", "3PM-6:30PM Sun");
 
