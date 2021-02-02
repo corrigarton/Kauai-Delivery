@@ -15,11 +15,11 @@
 
     restaurantInfo("Kountry Kitchen", "5c155421-7594-4c0d-8d35-a1f8dd2cbf5e", "a9ef2d91-3511-4f2b-8bf7-da4eaa841633", "#breakfast", "url('kountry-kitchen.jpg')", "Brunch eatery with full coffee menu. Known for their plate-sized mac nut pancakes.", "8:00AM-12:00PM");
 
-    restaurantInfo("Olympic Cafe", "67a3bb32-a34f-43d2-830c-87917c4091b6", "6339bc32-b414-4f81-9b25-9f2cddda9c71", "#breakfast", "url('olympic-cafe-bfast.jpg')", "Local restaurant with diverse menu, from diner classics to Hawaiian fare.", "8:00AM-11:30AM");
+    restaurantInfo("Olympic Cafe", "9767f046-7ca8-423f-99a2-f008ab0581f3", "52dc9601-9051-495a-9254-90d5fa7410cb", "#breakfast", "url('olympic-cafe-bfast.jpg')", "Local restaurant with diverse menu, from diner classics to Hawaiian fare.", "8:00AM-11:30AM");
 
     restaurantInfo("Kenji Burger", "dfa29fb5-668a-4de4-a8e6-01f392e7a333", "221449fd-d038-42fd-b8b9-092118993d39", "#burgers", "url('kenjiburger.jpg')", "Kauai grass fed beef, sushi burritos and poke bowls. Japanese/Hawaiian ingredients.", "11:30AM-7:00PM", "closed Tuesday");
 
-    restaurantInfo("Avalon Gastropub", "c215e566-8c3d-484c-bcf6-aacc8cd9ca86", "0d0fe022-cf84-4076-9343-626708f21da9", "#burgers", "url('avalonburger.jpg')", "Comfort food with a twist. We take pride in our high quality, local ingredients.", "3:30PM-8:00PM", "closed Sun & Mon");
+    restaurantInfo("Avalon Gastropub", "1bda4f12-8324-4e45-86c4-8797217b63b9", "52dc9601-9051-495a-9254-90d5fa7410cb", "#burgers", "url('avalonburger.jpg')", "Comfort food with a twist. We take pride in our high quality, local ingredients.", "3:30PM-8:00PM", "closed Sun & Mon");
 
     restaurantInfo("Olympic Cafe", "21b134b9-d774-4fc3-8268-95a12d2ae217", "c89ea0f3-adb7-4297-b847-38e31c1e7f55", "#burgers", "url('olympicburger.jpg')", "Local restaurant with diverse menu, from diner classics to Hawaiian fare.", "11:00AM-8:00PM");
 
