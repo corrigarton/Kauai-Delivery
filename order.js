@@ -33,7 +33,7 @@
 
     restaurantInfo("Kauai Boil", "7a03caeb-65ce-4d62-b9e4-a4e78000fd80", "3851fe2f-7f37-44c7-8b3f-1b95a02b6d39", "#asianFood", "url('coconutthai.jpg')", "Locally owned food truck serving Cajun style seafood boils.", “3PM-7:30PM (3-6:30 Sun)");
 
-    restaurantInfo("The Pineapple Room", "7a03caeb-65ce-4d62-b9e4-a4e78000fd80", "3851fe2f-7f37-44c7-8b3f-1b95a02b6d39", "#asianFood", "url('coconutthai.jpg')", "Serving authentic Cuban cuisine 5 nights a week.", "5:00PM-7:30PM (closed Mon & Tues"); }
+    restaurantInfo("The Pineapple Room", "7a03caeb-65ce-4d62-b9e4-a4e78000fd80", "3851fe2f-7f37-44c7-8b3f-1b95a02b6d39", "#asianFood", "url('coconutthai.jpg')", "Serving authentic Cuban cuisine 5 nights a week.", "5:00PM-7:30PM (closed Mon & Tues");
 
   /*nav button*/
   function navButton(){
