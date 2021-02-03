@@ -11,11 +11,13 @@
 
     restaurantInfo("Java Kai", "8597e28b-2081-4b3d-a54d-006828158572", "654f575b-ec86-4580-b0e5-8fbc0244b5eb", "#breakfast", "url('java-kai.jpg')", "Coffeehouse serving espresso, smoothies & bowls, breakfast, lunch, and dessert.", "8:00AM-1:00PM");
 
-    restaurantInfo("Rusells + HA Coffee", "dfd08e9a-1673-4847-b895-becb22cfbba7", "fdc2a906-5c43-4572-84a7-31a316a4d796", "#breakfast", "url('eathealthy.jpg')", "Cafe featuring vegan & gluten-free offerings. Serving breakfast, lunch & dinner.", "9AM-2:30PM & 5PM-8PM", "Closed Sun 5-8 & all-day Mon");
+    restaurantInfo("Rusell's & HA Coffee", "dfd08e9a-1673-4847-b895-becb22cfbba7", "fdc2a906-5c43-4572-84a7-31a316a4d796", "#breakfast", "url('eathealthy.jpg')", "Cafe featuring vegan & gluten-free offerings. Serving breakfast, lunch & dinner.", "9AM-2:30PM & 5PM-8PM", "Closed Sun 5-8 & all-day Mon");
 
     restaurantInfo("Kountry Kitchen", "5c155421-7594-4c0d-8d35-a1f8dd2cbf5e", "a9ef2d91-3511-4f2b-8bf7-da4eaa841633", "#breakfast", "url('kountry-kitchen.jpg')", "Brunch eatery with full coffee menu. Known for their plate-sized mac nut pancakes.", "8:00AM-12:00PM");
 
     restaurantInfo("Olympic Cafe", "9767f046-7ca8-423f-99a2-f008ab0581f3", "52dc9601-9051-495a-9254-90d5fa7410cb", "#breakfast", "url('olympic-cafe-bfast.jpg')", "Local restaurant with diverse menu, from diner classics to Hawaiian fare.", "8:00AM-11:30AM");
+
+    restaurantInfo("Kenji Burger", "dfa29fb5-668a-4de4-a8e6-01f392e7a333", "221449fd-d038-42fd-b8b9-092118993d39", "#burgers", "url('kenjiburger.jpg')", "Kauai grass fed beef, sushi burritos and poke bowls. Japanese/Hawaiian ingredients.", "11:30AM-7:00PM", "closed Tuesday");
 
     restaurantInfo("Avalon Gastropub", "1bda4f12-8324-4e45-86c4-8797217b63b9", "52dc9601-9051-495a-9254-90d5fa7410cb", "#burgers", "url('avalonburger.jpg')", "Comfort food with a twist. We take pride in our high quality, local ingredients.", "3:30PM-8:00PM", "closed Sun & Mon");
 
